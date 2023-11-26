@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgithub_actions_demo=self.webpackChunkgithub_actions_demo||[]).push([[114],{114:(e,s,i)=>{i.r(s),i.d(s,{default:()=>t});var n=i(276),o=i(184);const t=()=>(0,o.jsxs)("div",{children:["home\u9875",(0,o.jsx)(n.OL,{to:"/login",end:!0,children:"login"})]})}}]);
+//# sourceMappingURL=114.c3e4d070.chunk.js.map
